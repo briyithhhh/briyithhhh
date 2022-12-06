@@ -12,7 +12,7 @@ I'm very committed to learning new technologies and tools every day🍃.
   <summary>More about me 😸</summary>
   
   <p> </br>
-  🎂 I am 20 years old
+  🎂 I am 20 years old </br>
   🏫 I am studying at URBE University </br>
   🖌️ I know how to use design tools like photoshop </br>
   🗣️ I speak native Spanish and fluent English. </br>
