@@ -70,12 +70,4 @@ I'm very committed to learning new technologies and tools every day🍃.
 <h1>Contact me!</h1>
     
  📌 Discord: britly#5003 <br>
- 📌 Telegram: @briyithhhh
-       
-<h1>Some stats...</h1>
-   <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=briyithhhh&count_private=true&show_icons=true&theme=dark">
-   
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briyithhhh&layout=compact&theme=dark">
-   </p>
-  
+ 📌 Telegram: @briyithhhh  
